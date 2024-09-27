@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayushmaandhar.github.io/portfolio23/](https://ayushmaandhar.github.io/portfolio23/)
 
-- 💬 Ask me about **Web-Dev and DSA**
+- 💬 Ask me about **Development and DSA**
 
 - 📫 How to reach me **ayushmaandhar@gmail.com**
 
